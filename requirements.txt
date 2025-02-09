@@ -1,0 +1,4 @@
+pyautogui
+questionary
+numpy
+pyaudio
